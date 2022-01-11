@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639307642 source:c:\users\x540la-xx1007t\documents\programing files\machineproblem1\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+
+1639307913 c:\users\x540la-xx1007t\documents\programing files\machineproblem1\main.h
+	<iostream>
+	<string>
+
